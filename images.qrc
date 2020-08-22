@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/local">
+        <file>assets/icons-menu.svg</file>
+        <file>assets/icons-move-forward.svg</file>
+        <file>assets/page-icon.svg</file>
+        <file>assets/cpu-icon.svg</file>
+        <file>assets/ram-icon.svg</file>
+        <file>assets/disk-icon.svg</file>
+        <file>assets/google-material-design-wallpaper-2.jpg</file>
+        <file>assets/page.svg</file>
+    </qresource>
+</RCC>

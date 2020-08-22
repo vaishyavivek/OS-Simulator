@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/SidePanel.qml</file>
+        <file>qml/CustomComponents/RImageButton.qml</file>
+        <file>qml/CustomComponents/RImageExpandingButton.qml</file>
+        <file>qml/CustomComponents/RComboBox.qml</file>
+        <file>qml/CustomComponents/RTextButton.qml</file>
+        <file>DemandPaging/DemandPaging.qml</file>
+        <file>DemandPaging/InputFrame.qml</file>
+        <file>DemandPaging/PageListPathView.qml</file>
+        <file>DemandPaging/FrameListView.qml</file>
+        <file>DemandPaging/ResultFrame.qml</file>
+        <file>DemandPaging/AnimationFrame.qml</file>
+        <file>CpuScheduler/CpuScheduler.qml</file>
+        <file>MemoryAllocation/MemoryAllocation.qml</file>
+        <file>DemandPaging/FrameHistory.qml</file>
+        <file>DiskSchedular/DiskSchedular.qml</file>
+        <file>DiskSchedular/InputFrame.qml</file>
+    </qresource>
+</RCC>

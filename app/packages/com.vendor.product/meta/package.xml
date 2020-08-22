@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>OS Simulator</DisplayName>
+    <Description>Install OS Simulator.</Description>
+    <Version>0.1.0-1</Version>
+    <ReleaseDate>2019-04-16</ReleaseDate>
+    <Licenses>
+        <License name="PCE Open Software License Agreement" file="license.txt" />
+    </Licenses>
+    <Default>script</Default>
+    <Script>installscript.qs</Script>
+    <UserInterfaces>
+        <UserInterface>page.ui</UserInterface>
+    </UserInterfaces>
+</Package> 

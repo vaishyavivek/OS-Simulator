@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>OS Simulator</Name>
+    <Version>1.0.0</Version>
+    <Title>OS Simulator Installer</Title>
+    <Publisher>Geeta Software Company</Publisher>
+    <StartMenuDir>OS Simulator</StartMenuDir>
+    <TargetDir>@HomeDir@/InstallationDirectory</TargetDir>
+</Installer> 
